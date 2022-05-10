@@ -1,4 +1,5 @@
 # SWdev-62070148-final
+** aceptance test อยู่ใน feature
 
 # ข้อกำหนด Commit message
 **มีรูปแบบดังนี้**
